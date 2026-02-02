@@ -1,4 +1,7 @@
 ## Automação de testes E2E - SauceDemo (Playwright)
+![Playwright](https://img.shields.io/badge/Playwright-282120?style=for-the-badge&logo=playwright&logoColor=45ba4b)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Gherkin](https://img.shields.io/badge/Gherkin-00a81d?style=for-the-badge&logo=cucumber&logoColor=white)
 
 Este repositório contém a automação de testes de interface (UI) para o site [SauceDemo](https://www.saucedemo.com/), uma aplicação de demonstração de e-commerce. O foco do projeto é validar os fluxos críticos de **Login** e **Gerenciamento de Carrinho**.
 
@@ -59,6 +62,8 @@ Abra o relatório de testes:
 ```bash
 npx playwright show-report
 ```
+## Resultados dos testes
+![Relatório de Testes](./docs/report.png)
 
 ## Estratégia de evidências
 O projeto está configurado para ser eficiente no consumo de recursos e facilitar o debug:
