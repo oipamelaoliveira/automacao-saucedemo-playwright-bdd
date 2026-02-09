@@ -1,4 +1,4 @@
-## Automação de testes E2E - SauceDemo (Playwright)
+# Automação de testes E2E - SauceDemo (Playwright)
 ![Playwright](https://img.shields.io/badge/Playwright-282120?style=for-the-badge&logo=playwright&logoColor=45ba4b)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Gherkin](https://img.shields.io/badge/Gherkin-00a81d?style=for-the-badge&logo=cucumber&logoColor=white)
